@@ -1,0 +1,68 @@
+Uri: https://baite.host/download (1).png
+File Name: C:\Users\user\Pictures\host\baite.host\download (1).png
+Content Type: image/png
+
+Uri: https://baite.host/download (2).png
+File Name: C:\Users\user\Pictures\host\baite.host\download (2).png
+Content Type: image/png
+
+Uri: https://baite.host/download (3).png
+File Name: C:\Users\user\Pictures\host\baite.host\download (3).png
+Content Type: image/png
+
+Uri: https://baite.host/download.png
+File Name: C:\Users\user\Pictures\host\baite.host\download.png
+Content Type: image/png
+
+Uri: https://baite.host/logo6.png
+File Name: C:\Users\user\Pictures\host\baite.host\logo6.png
+Content Type: image/png
+
+Uri: https://baite.host/lovelycats/
+File Name: C:\Users\user\Pictures\host\baite.host\lovelycats\index.htm
+Content Type: text/html
+
+Uri: https://baite.host/lovelycats/app.js
+File Name: C:\Users\user\Pictures\host\baite.host\lovelycats\app.js
+Content Type: application/javascript
+
+Uri: https://baite.host/lovelycats/img/b2.png
+File Name: C:\Users\user\Pictures\host\baite.host\lovelycats\img\b2.png
+Content Type: image/png
+
+Uri: https://baite.host/lovelycats/img/img-1.png
+File Name: C:\Users\user\Pictures\host\baite.host\lovelycats\img\img-1.png
+Content Type: image/png
+
+Uri: https://baite.host/lovelycats/img/rh.gif
+File Name: C:\Users\user\Pictures\host\baite.host\lovelycats\img\rh.gif
+Content Type: image/gif
+
+Uri: https://baite.host/lovelycats/style.css
+File Name: C:\Users\user\Pictures\host\baite.host\lovelycats\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap
+File Name: C:\Users\user\Pictures\host\baite.host\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Users\user\Pictures\host\baite.host\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\user\Pictures\host\baite.host\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://img.icons8.com/color/480/000000/twitter--v1.png
+File Name: C:\Users\user\Pictures\host\baite.host\color\480\000000\twitter--v1.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/color/480/000000/youtube-play.png
+File Name: C:\Users\user\Pictures\host\baite.host\color\480\000000\youtube-play.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/fluency/240/000000/discord-logo.png
+File Name: C:\Users\user\Pictures\host\baite.host\fluency\240\000000\discord-logo.png
+Content Type: image/png
+
